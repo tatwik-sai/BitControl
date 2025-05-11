@@ -1,0 +1,7 @@
+btooth
+bleak
+pycaw
+comtypes
+pygame
+keyboard
+screen_brightness_control
