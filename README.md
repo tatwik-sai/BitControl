@@ -4,6 +4,8 @@
 
 This document details the "BitControl" project, which enables users to wirelessly control various PC operations and play games using a micro:bit as a controller. The communication between the micro:bit and the PC is established via Bluetooth Low Energy (BLE). This project offers a menu-based interface on the micro:bit, allowing users to select different control modes for interacting with their computer.
 
+[Watch Demo Video](https://youtu.be/riiqlc9271I)
+
 ---
 
 ## 2. Team Members
