@@ -49,7 +49,7 @@ Before running the project, ensure you have the following installed on your PC:
 Follow these steps to install and run BitControl:
 
 1.  **Flash Code to Micro:bit:**
-    * Copy the the `mictobit-proj.hex` file onto your micro:bit using a suitable data transfer cable.
+    * Copy the `bit_control.hex` file onto your micro:bit using a suitable data transfer cable.
 
 2.  **Enable Bluetooth on PC:**
     * Ensure that Bluetooth is turned on your PC.
